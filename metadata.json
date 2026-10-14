@@ -1,0 +1,6 @@
+{
+  "name": "运势测试与深度分析报告",
+  "description": "多维运势评估与深度AI运势分析报告，包含实时运势指数、五维能量雷达、24小时运势波动图、行动建议与转运指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
